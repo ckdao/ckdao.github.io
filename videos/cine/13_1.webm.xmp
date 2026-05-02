@@ -1,0 +1,124 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c002 79.a1cd12f, 2024/11/11-19:08:46        " rdfhash="D23F43C0E5FBC60470717751F5A87DA4" merged="0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
+   xmpMM:InstanceID="xmp.iid:67041f99-a2a0-420d-b0dd-94eac49f753b"
+   xmpMM:DocumentID="d7cb0638-5619-8c7f-d681-f8f00000003d"
+   xmpMM:OriginalDocumentID="xmp.did:c248ce71-5a05-4dcf-9e4e-285867b001d4"
+   xmp:MetadataDate="2026-04-24T02:49:12+03:00"
+   xmp:ModifyDate="2026-04-24T02:49:12+03:00"
+   xmp:CreateDate="2026-04-24T02:48:37+03:00"
+   xmp:CreatorTool="Adobe Premiere Pro 2025.0 (Macintosh)"
+   xmpDM:videoFrameRate="25.000000"
+   xmpDM:videoFieldOrder="Progressive"
+   xmpDM:videoPixelAspectRatio="1/1"
+   xmpDM:audioSampleRate="48000"
+   xmpDM:audioSampleType="Compressed"
+   xmpDM:audioChannelType="Stereo"
+   xmpDM:startTimeScale="25"
+   xmpDM:startTimeSampleSize="1"
+   dc:format="WebM">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="af66025b-6b85-cc45-12ce-dd850000006a"
+      stEvt:when="2026-04-24T02:49:12+03:00"
+      stEvt:softwareAgent="Adobe Adobe Media Encoder 2025.0 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="f581c71c-f0f5-6f6e-7875-d1e800000064"
+      stEvt:when="2026-04-23T03:00:53+03:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2025.0 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:86753af9-f4d6-4f02-a2bd-0209092d71dd"
+      stEvt:when="2026-04-23T03:00:52+03:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2025.0 (Macintosh)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:c2d94700-317a-43cc-9eea-9fd7732a856a"
+      stEvt:when="2026-04-23T03:00:53+03:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2025.0 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:e6f054e8-b37b-4bec-b6ae-2d8cb1bebcaf"
+      stEvt:when="2026-04-23T03:00:53+03:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2025.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:def65e39-c1bb-47a8-895e-1b0ae9a7f824"
+      stEvt:when="2026-04-24T02:49:12+03:00"
+      stEvt:softwareAgent="Adobe Adobe Media Encoder 2025.0 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:67041f99-a2a0-420d-b0dd-94eac49f753b"
+      stEvt:when="2026-04-24T02:49:12+03:00"
+      stEvt:softwareAgent="Adobe Adobe Media Encoder 2025.0 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpMM:DerivedFrom
+    stRef:instanceID="xmp.iid:e6f054e8-b37b-4bec-b6ae-2d8cb1bebcaf"
+    stRef:documentID="4dcf055d-7838-ba13-1c53-c17a00000037"
+    stRef:originalDocumentID="xmp.did:63c9cc03-72ad-4bd0-b052-aa3d6ca5600a"/>
+   <xmpDM:projectRef
+    xmpDM:type="movie"/>
+   <xmpDM:videoFrameSize
+    stDim:w="640"
+    stDim:h="360"
+    stDim:unit="pixel"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="25Timecode"
+    xmpDM:timeValue="00:10:45:17"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00:10:45:17"
+    xmpDM:timeFormat="25Timecode"/>
+   <xmpDM:duration
+    xmpDM:value="766080"
+    xmpDM:scale="1/90000"/>
+   <creatorAtom:windowsAtom
+    creatorAtom:extension=".prproj"
+    creatorAtom:invocationFlags="/L"/>
+   <creatorAtom:macAtom
+    creatorAtom:applicationCode="1347449455"
+    creatorAtom:invocationAppleEvent="1129468018"
+    creatorAtom:posixProjectPath="/Users/aleksey/Documents/Media/Portfolio/portfolio samples.prproj"/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
